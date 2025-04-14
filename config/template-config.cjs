@@ -1,42 +1,22 @@
 /* eslint-disable */
 const TEMPLATE_CONFIG = [
   {
-    id: '0001',
+    id: '62E8zyVY14qVcwXRP11BfMV1km8JccV7DbdgalcSYZc',
     title: '亲爱的, 早上好',
     desc: `
-      **{{date.DATA}}**
-      
-      下个休息日：{{holidaytts.DATA}}
-      
-      ---
-      
-      城市：{{city.DATA}}
-      
-      天气：{{weather.DATA}}
-      
-      气温(最高/最低):{{max_temperature.DATA}} / {{min_temperature.DATA}}
-      
-      风向: {{wind_direction.DATA}}
-      
-      风级: {{wind_scale.DATA}}
-      
-      {{comprehensive_horoscope.DATA}}
-      
-      ---
-      
-      今天是我们相识的第{{love_day.DATA}}天
-      
-      {{birthday_message.DATA}}
-      
-      ---
-      
-      {{moment_copyrighting.DATA}}
-      
-      {{poetry_title.DATA}} {{poetry_content.DATA}}
+    🗓️{{date.DATA}} 
+    城市：{{city.DATA}} 
+    今天是我们相识的第{meet_day.DATA}}天 
+    今天是我们恋爱的第{{love_day.DATA}}天 
+    值得纪念：{{birthday_message.DATA}} 
+    💗：{{earthy_love_words.DATA}} 
+    每日一句😋 
+    中文：{{note_ch.DATA}} 
+    English：{{note_en.DATA}}
     `
   },
   {
-    id: '0002',
+    id: '5R2Xf4My_0J_pzRg5PwM_slO-WWSkShR-XbqytIfqnE',
     title: '推送完成提醒',
     desc: `
       服务器信息：{{post_time_zone.DATA}} {{post_time.DATA}}
