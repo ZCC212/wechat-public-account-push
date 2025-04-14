@@ -1,18 +1,20 @@
 /* eslint-disable */
 const TEMPLATE_CONFIG = [
   {
-    id: 'bsVTKGzbXP7GfQSsM4pz_xEw9zsuUYwU8xZAEmaW5bY',
+    id: 'E5nA1huN1C4iW3WzkcrZoBH6Lr_C73Sr1qCs0W-KPek',
     title: '亲爱的, 早上好',
     desc: `
     🗓️{{date.DATA}} 
     城市：{{city.DATA}} 
-    今天是我们相识的第{marry_day.DATA}}天 
+    今天是我们相识的第{meet_day.DATA}}天
     今天是我们恋爱的第{{love_day.DATA}}天 
     值得纪念：{{birthday_message.DATA}} 
-    💗：{{earthy_love_words.DATA}} 
+    （づ￣3￣）づ╭❤～：
+    {{earthy_love_words.DATA}} 
     每日一句😋 
     中文：{{note_ch.DATA}} 
-    English：{{note_en.DATA}}
+    English：{{note_en.DATA}} 
+    爱你小嘉ლ(°◕‵ƹ′◕ლ)	
     `
   },
   {
