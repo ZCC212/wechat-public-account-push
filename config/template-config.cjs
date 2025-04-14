@@ -6,7 +6,7 @@ const TEMPLATE_CONFIG = [
     desc: `
     🗓️{{date.DATA}} 
     城市：{{city.DATA}} 
-    今天是我们相识的第{meet_day.DATA}}天 
+    今天是我们相识的第{marry_day.DATA}}天 
     今天是我们恋爱的第{{love_day.DATA}}天 
     值得纪念：{{birthday_message.DATA}} 
     💗：{{earthy_love_words.DATA}} 
